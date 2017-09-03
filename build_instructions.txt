@@ -1,0 +1,4 @@
+1 # install code blocks & wxwidgets (install contrib too)
+2 # run : sudo apt-get install libx11-dev
+3 # change something in code before compiling
+  #

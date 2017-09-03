@@ -1,0 +1,17 @@
+/***************************************************************
+ * Name:      SufoBot
+ * Author:    AXeL (axel.prog.25@gmail.com)
+ * Created:   2015-07-20
+ * Copyright: AXeL ()
+ * License:
+ * Idées d'améliorations : - Gestion de Métier (Metier function)
+                           - Auto XP (recherche de combat automatique)
+                           - Command to close game after a "trajet"
+                           - Si pas de vita s'asseoir (s'il n'y a pas assez de vita, la detection de la position du bot dans un combat ne fonctionnera pas aussi)
+                           - Fermeture des fenetres d'invitations aussi
+                           - Utilisation de PM en combat
+                           - Gestion d'elevage (Elevage function)
+ **************************************************************/
+
+PS : This project is only for learning purpose.
+
